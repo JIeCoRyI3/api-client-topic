@@ -1,0 +1,24 @@
+.dashboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.endpoint {
+  font-size: 22px;
+  width: 800px;
+  padding: 15px;
+  background-color: beige;
+  margin: 15px;
+  border: 3px dotted cadetblue;
+}
+
+.endpoint button {
+  font-size: 18px;
+  margin-top: 15px;
+  padding: 7px;
+  cursor: pointer;
+  background-color: cadetblue;
+  color: azure;
+}
