@@ -14,6 +14,11 @@
   border: 3px dotted cadetblue;
 }
 
+.endpointResult {
+  overflow: hidden;
+  max-height: 500px;
+}
+
 .endpoint button {
   font-size: 18px;
   margin-top: 15px;
